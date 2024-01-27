@@ -6,6 +6,9 @@ import './index.css';
 ReactDOM.render(
   <div>
     <App />
+    <div className="blackAndWhite">
+      <div className="white">.</div>
+    </div>
   </div>,
   document.getElementById('root')
 );
